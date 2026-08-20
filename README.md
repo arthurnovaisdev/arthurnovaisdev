@@ -1,8 +1,7 @@
-<h1 align="center">Olá, eu sou Arthur Novais Peixoto 👋</h1>
+<h1 align="center">Hi, I'm Arthur Novais 👋</h1>
 
 <p align="center">
-  🚀 Estagiário de Desenvolvimento na <b>INAP</b> | 📍 Vitória da Conquista - BA<br>
-  💻 Estudando Java e evoluindo para uma vaga como Desenvolvedor Backend
+  💻 Information Systems 💻
 </p>
 
 <p align="center">
@@ -13,30 +12,38 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Atuo atualmente como estagiário de desenvolvimento na **INAP**, em Vitória da Conquista (BA), 
-experiência que tem me permitido aplicar na prática os conhecimentos adquiridos ao longo da minha formação.
+Backend Developer focused on building robust, scalable, and well-structured applications using Java and Spring Boot. I have experience designing RESTful APIs, working with relational databases, and writing efficient SQL queries, with a strong focus on PostgreSQL.
 
-Venho me dedicando ao aprofundamento em **Java**, desenvolvendo projetos que reforçam minhas 
-competências técnicas e minha capacidade de resolução de problemas.
+I follow software development best practices to write clean, maintainable code and deliver reliable solutions. Passionate about technology and problem-solving, I'm always exploring new tools and building practical projects to keep improving my skills.
 
-Meu objetivo é ingressar no mercado como **Desenvolvedor Backend**, contribuindo com soluções 
-sólidas e bem estruturadas, ao mesmo tempo em que continuo evoluindo profissionalmente.
+🔭 Currently focused on backend development with Java & Spring Boot\
+🌱 Always learning and exploring new technologies\
+💬 Open to discussing backend architecture, APIs, and databases
 
-### 🛠️ Tecnologias
+### 🛠️ Technologies
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📌 Featured projects
+
+**[Workshop | web-services](https://github.com/arthurnovaisdev/workshop)** REST API in Java/Spring Boot, PostgreSQL, production deployment with Docker and Render.
+
+**[Worker-management-api](https://github.com/arthurnovaisdev/worker-management-api)** REST API developed with Spring Boot for managing workers, departments, and calculating monthly income based on hourly contracts.
+
+---
+
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=arthurnovaisdev&show_icons=true&theme=dark&hide_border=true" />
@@ -45,4 +52,4 @@ sólidas e bem estruturadas, ao mesmo tempo em que continuo evoluindo profission
 
 ---
 
-<p align="center"><i>Aberto a oportunidades como Desenvolvedor Backend Júnior 🚀</i></p>
+<p align="center"><i>Open to opportunities 🚀</i></p>
