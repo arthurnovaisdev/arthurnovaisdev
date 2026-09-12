@@ -14,7 +14,7 @@
 
 ## About me
 
-Backend Developer focused on building robust, scalable, and well-structured applications using Java and Spring Boot. I have experience designing REST APIs, working with relational databases, and writing efficient SQL queries, with a strong focus on PostgreSQL.
+Backend Developer focused on building robust, scalable, and well-structured applications using Java and Spring Boot. I have experience designing RESTful APIs, working with relational databases, and writing efficient SQL queries, with a strong focus on PostgreSQL.
 
 I follow software development best practices to write clean, maintainable code and deliver reliable solutions. Passionate about technology and problem-solving, I'm always exploring new tools and building practical projects to keep improving my skills.
 
@@ -36,7 +36,7 @@ I follow software development best practices to write clean, maintainable code a
 
 ### 📌 Featured projects
 
-**[Employee reporting](https://github.com/arthurnovaisdev/employee-reporting-system)** Full-stack system - Digital Ombudsman - RESTful API in Java/Spring Boot with Spring Security, JWT, and PostgreSQL, deployed to production via Docker and Render. Frontend in React and TypeScript. **[(Frontend)](https://github.com/arthurnovaisdev/employee-reporting-frontend)
+**[Employee reporting](https://github.com/arthurnovaisdev/employee-reporting-system)** Full-stack system - Digital Ombudsman - REST API in Java/Spring Boot with Spring Security, JWT, and PostgreSQL, deployed to production via Docker and Render. Frontend in React, Vite and TypeScript. **[(Frontend)](https://github.com/arthurnovaisdev/employee-reporting-frontend)
 
 **[Workshop | web-services](https://github.com/arthurnovaisdev/workshop)** REST API in Java/Spring Boot, PostgreSQL, production deployment with Docker and Render.
 
