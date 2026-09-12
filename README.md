@@ -14,7 +14,7 @@
 
 ## About me
 
-Backend Developer focused on building robust, scalable, and well-structured applications using Java and Spring Boot. I have experience designing RESTful APIs, working with relational databases, and writing efficient SQL queries, with a strong focus on PostgreSQL.
+Backend Developer focused on building robust, scalable, and well-structured applications using Java and Spring Boot. I have experience designing REST APIs, working with relational databases, and writing efficient SQL queries, with a strong focus on PostgreSQL.
 
 I follow software development best practices to write clean, maintainable code and deliver reliable solutions. Passionate about technology and problem-solving, I'm always exploring new tools and building practical projects to keep improving my skills.
 
