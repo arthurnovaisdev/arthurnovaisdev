@@ -36,7 +36,7 @@ I follow software development best practices to write clean, maintainable code a
 
 ### 📌 Featured projects
 
-**[Employee reporting](https://github.com/arthurnovaisdev/employee-reporting-system)** Full-stack system - Digital Ombudsman - REST API in Java/Spring Boot with Spring Security, JWT, and PostgreSQL, deployed to production via Docker and Render. Frontend in React, Vite and TypeScript. **[(Frontend)](https://github.com/arthurnovaisdev/employee-reporting-frontend)
+**[Employee reporting](https://github.com/arthurnovaisdev/employee-reporting-system)** Full-stack system - Digital Ombudsman - REST API in Java/Spring Boot with Spring Security, JWT, and PostgreSQL, deployed to production via Docker and Render. Frontend in React, Vite and TypeScript. [(Frontend)](https://github.com/arthurnovaisdev/employee-reporting-frontend)
 
 **[Workshop | web-services](https://github.com/arthurnovaisdev/workshop)** REST API in Java/Spring Boot, PostgreSQL, production deployment with Docker and Render.
 
