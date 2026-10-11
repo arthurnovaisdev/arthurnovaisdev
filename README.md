@@ -39,11 +39,11 @@ I follow software development best practices to write clean, maintainable code a
 
 ### 📌 Featured projects
 
-**[Employee reporting](https://github.com/arthurnovaisdev/employee-reporting-system)** Full-stack system - Digital Ombudsman - REST API in Java/Spring Boot with Spring Security, JWT, and PostgreSQL, deployed to production via Docker and Render. Frontend in React, Vite and TypeScript. [(Frontend)](https://github.com/arthurnovaisdev/employee-reporting-frontend)
+**[Employee reporting](https://github.com/arthurnovaisdev/employee-reporting-system)** Full-stack system - Digital Internal Ombudsman - REST API in Java/Spring Boot with Spring Security, JWT, and PostgreSQL, deployed to production via Docker and Render. Frontend in React, Vite and TypeScript. [(Frontend)](https://github.com/arthurnovaisdev/employee-reporting-frontend)
 
-**[QualityOps AI](https://github.com/arthurnovaisdev/qualityops-ai)** REST API in Java/Spring Boot with Spring Security, JWT, PostgreSQL, pgvector and Spring AI, featuring AI-assisted complaint analysis, semantic search, corrective action tracking and human-reviewed investigation suggestions. Frontend in React, Vite and TypeScript. [(Frontend)](https://github.com/arthurnovaisdev/qualityops-frontend)
+**[QualityOps AI](https://github.com/arthurnovaisdev/qualityops-ai)** Full-stack system - REST API in Java/Spring Boot with Spring Security, JWT, PostgreSQL, pgvector and Spring AI, featuring AI-assisted complaint analysis, semantic search, corrective action tracking and human-reviewed investigation suggestions. Frontend in React, Vite and TypeScript. [(Frontend)](https://github.com/arthurnovaisdev/qualityops-frontend)
 
-**[Worker-management-api](https://github.com/arthurnovaisdev/worker-management-api)** REST API developed with Spring Boot for managing workers, departments, and calculating monthly income based on hourly contracts.
+**[Ombudsman office](https://github.com/arthurnovaisdev/external-ombudsman-backend)** Full-stack system - Digital Ombudsman - REST API built with Java/Spring Boot, Spring Security, JWT, PostgreSQL, Flyway, and Brevo, with role-based access, messaging, rate limiting, and Docker-ready deployment. Frontend in React, Vite and TypeScript. [(Frontend)](https://github.com/arthurnovaisdev/external-ombudsman-frontend)
 
 ---
 
